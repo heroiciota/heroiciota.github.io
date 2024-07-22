@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iota&#39;s Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://heroiciota.github.io/</link>
     <description>Recent content on iota&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 Jul 2024 17:20:24 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://heroiciota.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/7_22/</link>
+      <link>https://heroiciota.github.io/moments/7_22/</link>
       <pubDate>Sun, 21 Jul 2024 17:20:24 +0800</pubDate>
-      <guid>http://localhost:1313/moments/7_22/</guid>
+      <guid>https://heroiciota.github.io/moments/7_22/</guid>
       <description>声明：这里是iota的胡言乱语网站，所有blogs皆是一位名叫iota的意识体的胡言乱语，而与任何现存的已故的未来的人类无关。&#xA;Announcement: This is the website of iota&amp;rsquo;s abracadabra, all blogs are murmured by a spirit which is called iota, there is no linking with people who lived, living or shall live in this planet. Selfie here to prove what I said.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/moments/test/</link>
+      <link>https://heroiciota.github.io/moments/test/</link>
       <pubDate>Sun, 21 Jul 2024 17:20:24 +0800</pubDate>
-      <guid>http://localhost:1313/moments/test/</guid>
+      <guid>https://heroiciota.github.io/moments/test/</guid>
       <description>我们如何用科学给后代或者说后世留下一个比宗教更好（就其简洁和有用性而言）的理解世界的方法？</description>
     </item>
   </channel>
