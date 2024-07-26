@@ -10,6 +10,13 @@
     <atom:link href="https://heroiciota.github.io/moments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>https://heroiciota.github.io/moments/7.23/</link>
+      <pubDate>Sun, 21 Jul 2024 17:20:24 +0800</pubDate>
+      <guid>https://heroiciota.github.io/moments/7.23/</guid>
+      <description> 声明：这里是iota的胡言乱语网站，所有blogs皆是一位名叫iota的意识体的胡言乱语，而与任何现存的已故的未来的人类无关。&#xA;Announcement: This is the website of iota&amp;rsquo;s abracadabra, all blogs are murmured by a spirit which is called iota, there is no linking with people who lived, living or shall live in this planet. Selfie here to prove what I said.&amp;mdash;&#xA;置顶 (如需置顶这片Moment, 则将值设定为大于0的整数, 值越小越靠前，例如1会将moment放在最顶端) top: 0&#xA;名称（不填写则为设置的默认名称） name:&#xA;头像（不填写则为设置的默认头像） avatar:&#xA;发布时间 date: 2024-07-21T17:20:24+08:00&#xA;给Moment添加标签 tags:&#xA;abracadabra 附加信息（选填1项或者不填写） 附加信息类型1:单个图片 pictures: 附加信息类型2:网页链接 link：必填，网页链接； link_text：必填，链接显示的文字； link_logo：选填，网页logo，现在支持部分网站自动找到对应图标，无需自己添加图标 link: link_text: link_logo:&#xA;备注信息 note: </description>
+    </item>
+    <item>
+      <title></title>
       <link>https://heroiciota.github.io/moments/7_22/</link>
       <pubDate>Sun, 21 Jul 2024 17:20:24 +0800</pubDate>
       <guid>https://heroiciota.github.io/moments/7_22/</guid>
